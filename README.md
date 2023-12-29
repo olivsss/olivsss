@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olivsss
 - 👀 I’m studying data techniques using SQL, Python and Power B.I.
-- 🌱 I just started my path.
+- 🌱 I'm on my way to be a Data analyst ^^
 - 📫 You can find me on Linkedin -> https://www.linkedin.com/in/leticiaolivs/
 
 <!---
